@@ -190,18 +190,18 @@ input[type='checkbox']:checked ~ .flexy-column .bar2 .bar[aria-valuenow] .toolti
   content: '75%';}
 /* bar3 */
 input[type='checkbox']:checked ~ .flexy-column .bar3 .bar[aria-valuenow] .percentage:before {
-  width: 80%;}
+  width: 70%;}
 input[type='checkbox']:checked ~ .flexy-column .bar3 .bar[aria-valuenow] .tooltip {
-  left: 80%;}
+  left: 70%;}
 input[type='checkbox']:checked ~ .flexy-column .bar3 .bar[aria-valuenow] .tooltip:before {
-  content: '80%';}
+  content: '70%';}
 /* bar4 */
 input[type='checkbox']:checked ~ .flexy-column .bar4 .bar[aria-valuenow] .percentage:before {
-  width: 85%;}
+  width: 80%;}
 input[type='checkbox']:checked ~ .flexy-column .bar4 .bar[aria-valuenow] .tooltip {
-  left:85%;}
+  left:80%;}
 input[type='checkbox']:checked ~ .flexy-column .bar4 .bar[aria-valuenow] .tooltip:before {
-  content: '85%';}
+  content: '80%';}
 
 
 .bar.ruler .percentage:before {
